@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:7DD3FC&height=190&section=header&text=Netal%20Agarwal&fontSize=48&fontColor=f8fafc&fontAlignY=35&desc=Software%20Developer%20%7C%20Backend%20%26%20Full-Stack%20%7C%20Data%20%26%20Cloud&descAlignY=57&descSize=17&animation=fadeIn" alt="Netal Agarwal - Software Developer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f172a,100:7DD3FC&amp;height=190&amp;section=header&amp;text=Netal%20Agarwal&amp;fontSize=48&amp;fontColor=f8fafc&amp;fontAlignY=35&amp;desc=Software%20Developer%20%7C%20Backend%20%26amp%3B%20Full-Stack%20%7C%20Data%20%26amp%3B%20Cloud&amp;descAlignY=57&amp;descSize=17&amp;animation=fadeIn" alt="Netal Agarwal - Software Developer" width="100%" />
 
   <a href="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1300&color=7DD3FC&center=true&vCenter=true&width=700&lines=Building+practical+software+systems;Backend+and+full-stack+development;Exploring+data+analytics+and+cloud+computing"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1300&color=7DD3FC&center=true&vCenter=true&width=700&lines=Building+practical+software+systems;Backend+and+full-stack+development;Exploring+data+analytics+and+cloud+computing" alt="Software development focus" /></a>
 
@@ -102,7 +102,12 @@ A big-data analytics project that processes and analyzes large-scale judicial da
 </p>
 <p align="center">
   <b>Data Analytics and Big Data</b><br />
-  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,hadoop,spark,sklearn&theme=dark" alt="Python, Pandas, NumPy, Hadoop, Spark, scikit-learn" />
+  <img src="https://skillicons.dev/icons?i=python,hadoop,sklearn&amp;theme=dark&amp;perline=3" alt="Python, Hadoop, scikit-learn" /><br />
+  <img src="https://img.shields.io/badge/Pandas-0f172a?style=flat-square&amp;logo=pandas&amp;logoColor=7DD3FC" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-0f172a?style=flat-square&amp;logo=numpy&amp;logoColor=7DD3FC" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Apache%20Spark-0f172a?style=flat-square&amp;logo=apachespark&amp;logoColor=7DD3FC" alt="Apache Spark" />
+  <img src="https://img.shields.io/badge/PySpark-0f172a?style=flat-square&amp;logo=apache-spark&amp;logoColor=7DD3FC" alt="PySpark" />
+  <img src="https://img.shields.io/badge/MLlib-0f172a?style=flat-square&amp;logo=apache-spark&amp;logoColor=7DD3FC" alt="MLlib" />
 </p>
 <p align="center">
   <b>DevOps and Tools</b><br />
@@ -111,12 +116,15 @@ A big-data analytics project that processes and analyzes large-scale judicial da
 
 ## Achievements, Research and Leadership
 
-**Patent - Cognitive Sovereignty Enforcement System (CSES): An Adaptive, Queue Based Attention Management and Behavioural Intelligence Framework for Android Mobile Operating Systems**  
+### Patent
+
+**Cognitive Sovereignty Enforcement System (CSES): An Adaptive, Queue Based Attention Management and Behavioural Intelligence Framework for Android Mobile Operating Systems**
+
 A framework for intelligent notification and attention management using an asynchronous notification queue, application-specific attention tokens, delivery windows, and adaptive behavioural feedback.
 
-- Outreach and Partnerships Head, Juvenile Care
-- Core member, management domain, ACM-VIT
-- Sponsorship/outreach-related responsibilities and event organization
+### Outreach & Partnerships Head - Juvenile Care
+
+### Core Member - ACM-VIT
 
 ## GitHub Statistics
 
