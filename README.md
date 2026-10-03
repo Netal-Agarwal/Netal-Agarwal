@@ -102,12 +102,7 @@ A big-data analytics project that processes and analyzes large-scale judicial da
 </p>
 <p align="center">
   <b>Data Analytics and Big Data</b><br />
-  <img src="https://skillicons.dev/icons?i=python,hadoop,sklearn&amp;theme=dark&amp;perline=3" alt="Python, Hadoop, scikit-learn" /><br />
-  <img src="https://img.shields.io/badge/Pandas-0f172a?style=flat-square&amp;logo=pandas&amp;logoColor=7DD3FC" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-0f172a?style=flat-square&amp;logo=numpy&amp;logoColor=7DD3FC" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Apache%20Spark-0f172a?style=flat-square&amp;logo=apachespark&amp;logoColor=7DD3FC" alt="Apache Spark" />
-  <img src="https://img.shields.io/badge/PySpark-0f172a?style=flat-square&amp;logo=apache-spark&amp;logoColor=7DD3FC" alt="PySpark" />
-  <img src="https://img.shields.io/badge/MLlib-0f172a?style=flat-square&amp;logo=apache-spark&amp;logoColor=7DD3FC" alt="MLlib" />
+  <img src="https://skillicons.dev/icons?i=hadoop,sklearn&amp;theme=dark&amp;perline=2" alt="Hadoop and scikit-learn" />
 </p>
 <p align="center">
   <b>DevOps and Tools</b><br />
