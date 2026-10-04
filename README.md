@@ -38,27 +38,10 @@ I build backend and full-stack applications, enjoy solving technical problems, a
 
 <a href="https://github.com/Netal-Agarwal/CareerForge-AI"><img src="https://img.shields.io/badge/Public%20Repository-7DD3FC?style=flat-square&logo=github&logoColor=0f172a" alt="CareerForge AI public repository" /></a>
 
-A full-stack career development platform for exploring career paths, discovering relevant opportunities, and receiving personalized career recommendations.
+Full-stack career development platform for career exploration, opportunity discovery, and personalized recommendations.
 
-**Contribution:** Backend and frontend development, including REST APIs, authentication, database integration, backend architecture, and React components.  
-**Stack:** React | FastAPI | Python | SQLAlchemy | PostgreSQL  
+**Tech:** React · FastAPI · Python · SQLAlchemy · PostgreSQL  
 **Repository:** [CareerForge AI](https://github.com/Netal-Agarwal/CareerForge-AI)
-
-<a href="https://github.com/Netal-Agarwal/CareerForge-AI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Netal-Agarwal&repo=CareerForge-AI&theme=transparent&hide_border=true&title_color=7DD3FC&text_color=cbd5e1&icon_color=7DD3FC" alt="CareerForge AI repository card" /></a>
-
----
-
-### Emotion-Aware Cloud Platform for Mental Health Monitoring Using Multimodal Data
-
-<a href="https://github.com/Netal-Agarwal/EmotionAwareCLoudPlatformForMentalHealthMonitoringUsingMultimodalAI_Azure_Cloud_Project_2026"><img src="https://img.shields.io/badge/Public%20Repository-7DD3FC?style=flat-square&logo=github&logoColor=0f172a" alt="Emotion-Aware Cloud Platform public repository" /></a>
-
-A cloud-based platform for processing multimodal inputs and identifying emotion-related patterns for technology-assisted mental health monitoring.
-
-**Contribution:** Software architecture and implementation, including application/backend components, multimodal processing, semantic similarity, and Azure service integration.  
-**Stack:** Python | NLP | Sentence Transformers | FAISS | Microsoft Azure  
-**Repository:** [Emotion-Aware Cloud Platform](https://github.com/Netal-Agarwal/EmotionAwareCLoudPlatformForMentalHealthMonitoringUsingMultimodalAI_Azure_Cloud_Project_2026)
-
-<a href="https://github.com/Netal-Agarwal/EmotionAwareCLoudPlatformForMentalHealthMonitoringUsingMultimodalAI_Azure_Cloud_Project_2026"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Netal-Agarwal&repo=EmotionAwareCLoudPlatformForMentalHealthMonitoringUsingMultimodalAI_Azure_Cloud_Project_2026&theme=transparent&hide_border=true&title_color=7DD3FC&text_color=cbd5e1&icon_color=7DD3FC" alt="Emotion-Aware Cloud Platform repository card" /></a>
 
 ---
 
@@ -66,10 +49,9 @@ A cloud-based platform for processing multimodal inputs and identifying emotion-
 
 <img src="https://img.shields.io/badge/Private%20Repository-0f172a?style=flat-square&logo=github&logoColor=7DD3FC" alt="Private repository" />
 
-A secure software project exploring covert information hiding through steganographic techniques, embedding data within digital media while maintaining usability and security.
+Security-focused system for covert information hiding and detection using steganographic techniques and intelligent detection workflows.
 
-**Contribution:** Designed and implemented the core system functionality, including data encoding/embedding and extraction.  
-**Stack:** Python | Large Language Models (LLMs) | scikit-learn | Steganography / Digital Forensics | Multi-Agent Systems
+**Tech:** Python · LLMs · scikit-learn · Steganography · Digital Forensics · Multi-Agent Systems
 
 ---
 
@@ -77,10 +59,20 @@ A secure software project exploring covert information hiding through steganogra
 
 <img src="https://img.shields.io/badge/Private%20Repository-0f172a?style=flat-square&logo=github&logoColor=7DD3FC" alt="Private repository" />
 
-A big-data analytics project that processes and analyzes large-scale judicial datasets to extract meaningful patterns and insights with distributed data processing technologies.
+Big-data analytics project for processing and analyzing large-scale judicial datasets using distributed computing technologies.
 
-**Contribution:** Worked on the data processing pipeline: large-scale processing, transformation, analysis, and distributed computation in the Hadoop/Spark ecosystem.  
-**Stack:** Apache Hadoop | Apache Spark | PySpark | Python | MLlib
+**Tech:** Hadoop · Apache Spark · PySpark · Python · MLlib
+
+---
+
+### Emotion-Aware Cloud Platform
+
+<a href="https://github.com/Netal-Agarwal/EmotionAwareCLoudPlatformForMentalHealthMonitoringUsingMultimodalAI_Azure_Cloud_Project_2026"><img src="https://img.shields.io/badge/Public%20Repository-7DD3FC?style=flat-square&logo=github&logoColor=0f172a" alt="Emotion-Aware Cloud Platform public repository" /></a>
+
+Cloud-based platform for multimodal emotion analysis and technology-assisted mental health monitoring.
+
+**Tech:** Python · NLP · Sentence Transformers · FAISS · Microsoft Azure  
+**Repository:** [Emotion-Aware Cloud Platform](https://github.com/Netal-Agarwal/EmotionAwareCLoudPlatformForMentalHealthMonitoringUsingMultimodalAI_Azure_Cloud_Project_2026)
 
 ## Tech Stack
 
